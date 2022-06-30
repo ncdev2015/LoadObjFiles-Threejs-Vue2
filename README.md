@@ -2,12 +2,12 @@
 
 A basic example to load and show 3D object files (.obj) to scene
 
-![Load 3D Object](https://github.com/ncdev2015/3DViewerThreejs-Vue2/blob/master/src/assets/sample.png)
+![Load 3D Object](https://github.com/ncdev2015/LoadObjFiles-Threejs-Vue2/blob/main/src/assets/example.png)
 
 ## Requirements
 
 ```
-Node 12.22+
+Node 12.22 & Vue 2
 ```
 
 ## Project setup

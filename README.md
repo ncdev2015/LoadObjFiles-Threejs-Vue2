@@ -7,7 +7,8 @@ A basic example to load and show 3D object files (.obj) to scene
 ## Requirements
 
 ```
-Node 12.22 & Vue 2
+Node 12.22
+Vue 2
 ```
 
 ## Project setup
